@@ -1,0 +1,6 @@
+Esse foi um projeto da DIO, na Formação SQL Database Specialist, visando a aplicação dos estudos realizados. 
+O código de criação das tabelas foi feito a partir do DER feito no workbench e as inserções foram feitas utilizando fillDb.
+
+O modelo não foi completamente criado por mim, mas sim refinado adicionando algumas relações e tabelas. Sei que algumas nomenclaturas e constraints no banco
+poderiam ser melhores aplicadas, mas preferi me ater ao simples para a execução da atividade.  
+
